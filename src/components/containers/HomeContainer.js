@@ -79,7 +79,7 @@ export default function HomeContainer() {
                             <Card>
                                 <Image src={'/facebook_polls.svg'} width={50} height={50} alt='facebook polls' />
                                 <h5>Create Poll</h5>
-                                <p>Want to know which soccer player is the best or who should be the team leader? Create polls and get everyone's opinion in no time.</p>
+                                <p>Want to know which soccer player is the best or who should be the team leader? Create polls and get everyone is opinion in no time.</p>
                             </Card>
                         </Col>
                         <Col md="4" className='mb-5'>
@@ -105,7 +105,7 @@ export default function HomeContainer() {
             <Container>
                 <Row>
                     <Col md="6" className='contact-section-left'>
-                        <h3>Let's Connect with RisingPoll</h3>
+                        <h3>Lets Connect with RisingPoll</h3>
                         <p>Discuss your query with RisingPoll, It will help us to build a strong platform.</p>
                     </Col>
                     <Col md="6" className='contact-section-right'>

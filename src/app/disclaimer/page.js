@@ -9,7 +9,7 @@ export default function Disclaimer() {
           <div className='privacy-policy-main'>
             <h1>Disclaimer</h1>
             <p>The content contained within Rising Poll user-generated polls is not created, reviewed, or approved by Rising Poll. It is important to note that the opinions and information expressed in these polls are solely those of the users who have created them and do not reflect the views or opinions of Rising Poll.</p>
-            <p>If you come across any material that is offensive, inappropriate, or in violation of community guidelines, we strongly encourage you to use the "Report Content" feature that can be found in the drop-down menu on the site. This will allow our team to review the issue and take the necessary actions to address it.</p>
+            <p>If you come across any material that is offensive, inappropriate, or in violation of community guidelines, we strongly encourage you to use the Report Content feature that can be found in the drop-down menu on the site. This will allow our team to review the issue and take the necessary actions to address it.</p>
             <p>It is our commitment to maintain a safe and respectful community and we appreciate your efforts in helping us achieve this goal.</p>
             <h2>Rules for Rising Poll</h2>
             <ol>
