@@ -1,0 +1,55 @@
+
+.share-main{
+    width: 100%;
+    height: auto;
+    padding: 5rem 0rem;
+}
+.share-main .card{
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+    box-shadow: 0 0 10px 1px #00000024, 0 1px 14px 2px #0000001f, 0 0 5px -3px #0000004d;
+    text-align: center;
+}
+.share-main .card h2{
+    color: #1f5ab2;
+    font-size: 2rem;
+    font-weight:700;
+}
+.share-main .card .flex{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding-top: 1rem;
+}
+.share-main .card .flex .left{
+    width: 50%;
+    text-align: right;
+    padding-right: .5rem;
+}
+
+.share-main .card .flex .left button{
+    font-size: 14px;
+    padding: .5rem 1rem;
+    color: white;
+}
+
+.share-main .card .flex .right{
+    width: 50%;
+    text-align: left;
+    padding-left: .5rem;
+}
+
+.share-main .card .flex .right button{
+    font-size: 14px;
+    padding: .5rem 1rem;
+    color: white;
+    background-color: rgb(209, 53, 53);
+    border-color:rgb(209, 53, 53) ;
+}
+.share-wp{
+    background-color: #04ae42!important;
+    border-color: #04ae42!important;
+    margin-top: 3rem;
+    width: 100%;
+}

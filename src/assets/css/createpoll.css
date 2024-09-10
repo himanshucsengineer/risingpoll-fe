@@ -1,0 +1,57 @@
+.create-poll-main{
+    width: 100%;
+    height: auto;
+    padding: 4rem 0rem;
+}
+
+.create-poll-main .create-poll-form{
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 6px solid #cdcdcd;
+    padding: 2rem;
+}
+.create-poll-main .create-poll-form p{
+    text-align: left;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+.create-poll-main .create-poll-form .option-field{
+    position: relative;
+}
+
+.create-poll-main .create-poll-form .remove-btn{
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: transparent;
+    border: none;
+    color: black;
+}
+
+.create-poll-main .create-poll-form .add-option{
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #cdcdcd;
+    text-align: left;
+    padding-bottom: 2rem;
+}
+
+.create-poll-main .create-poll-form .add-option button{
+    background-color: transparent;
+    border: 2px solid #bab5b5;
+    color: #bab5b5;
+}
+
+.create-poll-main .create-poll-form .create-poll{
+    background-color: #1f5ab2;
+    color: white;
+    margin-top: 2rem;
+    padding: .5rem 2rem;
+
+}
+.create-poll-main h1{
+    color: #1f5ab2;
+    text-align: center;
+}

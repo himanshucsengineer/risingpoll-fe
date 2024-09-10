@@ -1,0 +1,12 @@
+.howtoplay-main{
+    width: 100%;
+    height: auto;
+    padding: 7rem 0rem;
+}
+
+.howtoplay-main h3{
+    text-align: center;
+    color: #1F5AB2;
+    margin-bottom: 3rem;
+    font-size: 40px;
+}

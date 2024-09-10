@@ -1,0 +1,91 @@
+.vote-now-main{
+    width: 100%;
+    height: auto;
+    padding: 5rem 0rem;
+}
+
+.vote-now-main .card{
+    width: 100%;
+    height: auto;
+    padding: 2rem;
+    box-shadow: 0 0 10px 1px #00000024, 0 1px 14px 2px #0000001f, 0 0 5px -3px #0000004d;
+}
+.vote-now-main .card h3{
+    text-align: center;
+    color: #1f5ab2;
+    margin-bottom: 2rem;
+}
+
+.vote-now-main .card .flex{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 2rem;
+}
+
+.vote-now-main .card .flex .left{
+    width: 50%;
+    padding-right: .5rem;
+}
+
+
+.vote-now-main .card button{
+    width:100%;
+    height: auto;
+    padding: .5rem;
+    
+    font-size: 14px;
+}
+
+.vote-now-main .card button a{
+    color:  white !important;
+    text-decoration: none !important;
+}
+
+.vote-now-main .card .flex .right button{
+    background-color: rgb(78, 215, 78);
+    border-color: rgb(78, 215, 78);
+}
+
+.vote-now-main .card .flex .right{
+    width: 50%;
+    padding-left: .5rem;
+}
+
+.share-on-wp{
+    width: 100%;
+    height: auto;
+    position: fixed;
+    bottom: 1rem;
+    background-color: rgb(78, 215, 78);
+    border-color: rgb(78, 215, 78);
+    border-radius: 25px;
+    padding: 1rem;
+    font-size: 22px;
+}
+
+.share-on-wp:hover{
+    background-color: rgb(78, 215, 78);
+    border-color: rgb(78, 215, 78);
+}
+
+.show-result-flex{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.show-result-flex .left{
+    width: fit-content;
+    padding-right: .5rem;
+}
+
+.show-result-flex .middle{
+    flex: 1;
+}
+
+.show-result-flex .right{
+    width: fit-content;
+    padding-left: .5rem;
+}
